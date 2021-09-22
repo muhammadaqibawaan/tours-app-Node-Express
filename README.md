@@ -11,4 +11,4 @@ Install Nodejs from[Nodejs Official Page](https://nodejs.org/en/)
 
 You can also run additional npm tasks such as
 - npm run build to build your app for production.
-- npm run run lint to run linting
+- npm run run lint to run linting.
